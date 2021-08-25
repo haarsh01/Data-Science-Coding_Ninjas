@@ -1,1 +1,2 @@
-# Data_Science_and_Machine_Learning_Course_Coding_Ninjas
+# Data Science and Machine Learning Course Coding Ninjas
+This repository contains my Jupyter notebook notes for the Data Scienec Course.
