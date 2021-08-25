@@ -1,1 +1,1 @@
-# Data-Science-Coding_Ninjas
+# Data_Science_and_Machine_Learning_Course_Coding_Ninjas
